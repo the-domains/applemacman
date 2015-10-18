@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AppleMacMan]]></title>
         <description><![CDATA[AppleMacMan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/applemacman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 21:27:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 21:35:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/applemacman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Mac Man]]></title>
+            <description><![CDATA[<article><h1>Apple Mac Man</h1><p>Apple Mac Man Consultancy      01202 771456</p></article>]]></description>
+            <link>https://thegrid.ai/applemacman/apple-mac-man/index.html</link>
+            <guid isPermaLink="false">613c532f-ad0e-43e1-9a1c-1a3dd735a2f1</guid>
+            <pubDate>Sun, 18 Oct 2015 21:33:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Apple Mac Man</p>]]></description>
-            <link>undefined3d55ffbd-9472-40d1-806e-188d60f6e350/index.html</link>
+            <link>https://thegrid.ai/applemacman/3d55ffbd-9472-40d1-806e-188d60f6e350/index.html</link>
             <guid isPermaLink="false">3d55ffbd-9472-40d1-806e-188d60f6e350</guid>
             <pubDate>Sun, 18 Oct 2015 21:27:43 GMT</pubDate>
         </item>
