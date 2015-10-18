@@ -4,7 +4,7 @@
         <description><![CDATA[Apple Mac Man]]></description>
         <link>https://thegrid.ai/applemacman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 22:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2015 22:05:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/applemacman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/applemacman/apple-mac-man/index.html</link>
             <guid isPermaLink="false">613c532f-ad0e-43e1-9a1c-1a3dd735a2f1</guid>
             <pubDate>Sun, 18 Oct 2015 21:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Apple Mac Man</p>]]></description>
-            <link>https://thegrid.ai/applemacman/3d55ffbd-9472-40d1-806e-188d60f6e350/index.html</link>
-            <guid isPermaLink="false">3d55ffbd-9472-40d1-806e-188d60f6e350</guid>
-            <pubDate>Sun, 18 Oct 2015 21:27:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
