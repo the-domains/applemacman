@@ -1,6 +1,6 @@
-name: null
+name: AppleMacMan
 favicon: null
-layout_spectrum: 0.7741387283895165
+layout_spectrum: 0
 typography_spectrum: 0.6619774145074189
 cta:
   domain: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.4431452329736203
-  lightness: 0.4216471058316529
-  saturation: 0.6372289166320115
-  rhythmicContrast: 0.6743254009634256
+  brandColors:
+    - '#ced5db'
+    - '#3785ab'
+    - '#050706'
+    - '#f27a24'
+    - '#284051'
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
